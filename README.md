@@ -1,3 +1,2 @@
 # prueba
-Ejercicio de prueba
-bobo
+Ejercicio de prueba 1
